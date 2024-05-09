@@ -1,6 +1,6 @@
 # Object Detection with YOLOv5
 
-This project focuses on object detection using the YOLOv5 model. YOLO (You Only Look Once) is a state-of-the-art object detection algorithm that is fast and accurate. YOLOv5 is the latest version of the YOLO family, known for its simplicity and performance.
+This project focuses on object detection using the YOLOv5 model. YOLO (You Only Look Once) is a state-of-the-art object detection algorithm that is fast and accurate.
 
 ## Introduction
 
