@@ -26,7 +26,7 @@ YOLOv5 is a single-stage object detection model that processes images in their e
 ## Contributors
   - Shivdatta Redekar
   - shivdattaredekar@gmail.com
-  - LinkedIn = https://www.linkedin.com/in/shivdatta-redekar-93ab1511a
+  - LinkedIn [https://www.linkedin.com/in/shivdatta-redekar-93ab1511a]
 
 ## License
   - This project is licensed under the MIT License
